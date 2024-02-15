@@ -1,7 +1,6 @@
 param location string = 'westus3'
 param storageName = 'spacetestapp'
 
-@description('Name of the resource')
 param namePrefix string = 'paulon'
 
 targetScope = 'resourceGroup'
